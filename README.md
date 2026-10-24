@@ -1,6 +1,12 @@
 # 👋 ¡Bienvenido a mi perfil de GitHub!
 
-<h3 align="center">💻 Desarrollador de software junior | Aprendiz SENA ADSO</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner_jhon_arenis.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner_jhon_arenis.svg">
+    <img alt="Banner de TU-NOMBRE: desarrollador de software" src="assets/banner_jhon_arenis.svg" width="100%">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
